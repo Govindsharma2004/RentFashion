@@ -1,1 +1,1 @@
-# RentFashion
+# RentFashion project
